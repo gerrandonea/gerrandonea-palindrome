@@ -1,0 +1,24 @@
+{
+  "name": "gerrandonea-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerrandonea/gerrandonea-palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerrandonea/gerrandonea-palindrome/issues"
+  },
+  "homepage": "https://github.com/gerrandonea/gerrandonea-palindrome#readme"
+}
